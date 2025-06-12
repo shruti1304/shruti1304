@@ -1,5 +1,5 @@
-<p align="center"><a href="https://shruti1304.github.io"><img width="80%" alt="Hi, I'm Shruti. Data Engineer | Azure | ETL | PySpark" src="./assets/gh-readme-header.png" /></a></p>
-
+<h1 align="center">Hi 👋, I'm Shruti</h1>
+<h3 align="center">Data Engineer | Azure | ETL | PySpark</h3>
 ---
 
 🎯 Experienced Data Engineer with 3+ years of hands-on experience building scalable data pipelines in Azure ecosystems (ADF, Databricks, ADLS Gen2). I specialize in designing robust ETL solutions that turn complex data into business value. Passionate about supply chain analytics, cloud-native data engineering, and automation.
