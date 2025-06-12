@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Shruti Nashine</h1>
 <h3 align="center">Data Engineer | Azure | ETL | PySpark</h3>
 
 ---
@@ -42,16 +42,15 @@ Built an end-to-end ETL pipeline using Azure Data Factory, Databricks, and ADLS 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shruti1304&show_icons=true&theme=radical" />
 </p>
 
 ---
 
 ### 📫 Connect with Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-link)  
-- ✉️ your.email@example.com  
-- 🌐 Portfolio Website *(if available)*
+- 💼 [LinkedIn](https://linkedin.com/in/shruti-m-nashine-30b179182  
+- ✉️ nashineshruti5@gmail.com 
 
 ---
 
