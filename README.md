@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shruti Nashine</h1>
-<h3 align="center">Data Engineer | Azure | ETL | PySpark</h3>
+<p align="center"><a href="https://shruti1304.github.io"><img width="80%" alt="Hi, I'm Shruti. Data Engineer | Azure | ETL | PySpark" src="./assets/gh-readme-header.png" /></a></p>
 
 ---
 
