@@ -1,6 +1,6 @@
 <!-- Header section with banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f62fe&height=200&section=header&text=👋Hi%20I'm%20[Shruti]%20&fontColor=ffffff&fontSize=40&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f62fe&height=200&section=header&text=👋Hi%20I'm%20Shruti%20&fontColor=ffffff&fontSize=40&animation=fadeIn" alt="header" />
 </p>
 
 <p align="center">
