@@ -39,7 +39,7 @@
   </tr>
   <tr>
     <td align="center" width="130">
-      <img src="https://img.icons8.com/ios-filled/100/spark.png" width="48"/><br/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="48"/><br/>
       <b>PySpark</b>
     </td>
     <td align="center" width="130">
