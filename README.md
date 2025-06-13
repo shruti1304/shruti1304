@@ -34,13 +34,13 @@
       <b>Azure</b>
     </td>
     <td align="center" width="130">
-      <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/null/external-databricks-a-cloud-based-data-platform-logo-color-tal-revivo.png" width="48"/><br/>
+      <img src="https://cdn.worldvectorlogo.com/logos/databricks.svg" width="48"/><br/>
       <b>Databricks</b>
     </td>
   </tr>
   <tr>
     <td align="center" width="130">
-      <img src="https://img.icons8.com/ios-filled/100/spark.png" width="48"/><br/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="48"/><br/>
       <b>PySpark</b>
     </td>
     <td align="center" width="130">
@@ -58,7 +58,7 @@
   </tr>
   <tr>
     <td align="center" width="130">
-      <img src="https://img.icons8.com/ios/100/000000/informatica.png" width="48"/><br/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Informatica_Logo.svg" width="48"/><br/>
       <b>Informatica</b>
     </td>
     <td align="center" width="130">
@@ -66,12 +66,12 @@
       <b>Jira</b>
     </td>
     <td align="center" width="130">
-      <img src="https://img.icons8.com/ios-filled/100/000000/flow-chart.png" width="48"/><br/>
-      <b>Lucidchart</b>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Microsoft_Azure_Logo.svg/512px-Microsoft_Azure_Logo.svg.png" width="48"/><br/>
+      <b>ADLS Gen2</b>
     </td>
     <td align="center" width="130">
-      <img src="https://img.icons8.com/external-flat-icons-inmotus-design/67/external-BDD-agile-flat-icons-inmotus-design.png" width="48"/><br/>
-      <b>Python BDD</b>
+      <img src="https://img.icons8.com/ios-filled/100/000000/flow-chart.png" width="48"/><br/>
+      <b>Lucidchart</b>
     </td>
   </tr>
 </table>
