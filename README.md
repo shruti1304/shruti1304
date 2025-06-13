@@ -2,11 +2,9 @@
 <h3 align="center">#Data Engineer #Data Enthusiast</h3>
 
 ---
-
 🎯 Experienced Data Engineer with 3+ years of hands-on experience building scalable data pipelines in Azure ecosystems (ADF, Databricks, ADLS Gen2). I specialize in designing robust ETL solutions that turn complex data into business value. Passionate about supply chain analytics, cloud-native data engineering, and automation.
 
 ---
-
 ### 💼 What I Do
 
 - 🚀 Build and optimize high-volume **ETL pipelines** using Azure Data Factory & Databricks
@@ -18,9 +16,13 @@
 ---
 ### 🛠️ My Tech Stack
 
-- 🐍 **Python**  - 📘 **SQL** – PostgreSQL, MySQL  - ☁️ **Azure** – ADF, Databricks, ADLS Gen2  - 🔥 **PySpark** / Spark SQL
-- 🧩 **Informatica IICS**  - 📂 **GitHub**, ⚙️ Jenkins  - 📋 **Jira**  -  🧠 Lucidchart
-
+- 🐍 **Python**
+- 📘 **SQL** – PostgreSQL, MySQL
+- ☁️ **Azure** – ADF, Databricks, ADLS Gen2
+- 🔥 **PySpark** / Spark SQL
+- 🧩 **Informatica IICS**
+- 📂 **GitHub**, ⚙️ Jenkins
+- 📋 **Jira**, 🧠 Lucidchart
 ---
 
 ### 📫 Connect with Me
