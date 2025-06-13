@@ -19,11 +19,62 @@
 
 ### 🛠️ Tech Stack
 
-- **Languages**: Python, SQL (PostgreSQL, MySQL)
-- **Cloud & Data Tools**: Azure Data Factory, Databricks, ADLS Gen2, Informatica IICS
-- **Big Data**: Spark, PySpark, Spark SQL
-- **Versioning & CI/CD**: GitHub, Git, Jenkins
-- **Others**: Jira, Lucidchart, Python BDD
+<table>
+  <tr>
+    <td align="center" width="130">
+      <img src="https://img.icons8.com/color/96/000000/python--v1.png" width="48"/><br/>
+      <b>Python</b>
+    </td>
+    <td align="center" width="130">
+      <img src="https://img.icons8.com/color/96/000000/sql.png" width="48"/><br/>
+      <b>SQL</b>
+    </td>
+    <td align="center" width="130">
+      <img src="https://img.icons8.com/color/96/000000/azure-1.png" width="48"/><br/>
+      <b>Azure</b>
+    </td>
+    <td align="center" width="130">
+      <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/null/external-databricks-a-cloud-based-data-platform-logo-color-tal-revivo.png" width="48"/><br/>
+      <b>Databricks</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="130">
+      <img src="https://img.icons8.com/ios-filled/100/spark.png" width="48"/><br/>
+      <b>PySpark</b>
+    </td>
+    <td align="center" width="130">
+      <img src="https://img.icons8.com/color/96/000000/postgreesql.png" width="48"/><br/>
+      <b>PostgreSQL</b>
+    </td>
+    <td align="center" width="130">
+      <img src="https://img.icons8.com/ios-filled/100/000000/github.png" width="48"/><br/>
+      <b>GitHub</b>
+    </td>
+    <td align="center" width="130">
+      <img src="https://img.icons8.com/color/96/000000/jenkins.png" width="48"/><br/>
+      <b>Jenkins</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="130">
+      <img src="https://img.icons8.com/ios/100/000000/informatica.png" width="48"/><br/>
+      <b>Informatica</b>
+    </td>
+    <td align="center" width="130">
+      <img src="https://img.icons8.com/ios-filled/100/000000/jira.png" width="48"/><br/>
+      <b>Jira</b>
+    </td>
+    <td align="center" width="130">
+      <img src="https://img.icons8.com/ios-filled/100/000000/flow-chart.png" width="48"/><br/>
+      <b>Lucidchart</b>
+    </td>
+    <td align="center" width="130">
+      <img src="https://img.icons8.com/external-flat-icons-inmotus-design/67/external-BDD-agile-flat-icons-inmotus-design.png" width="48"/><br/>
+      <b>Python BDD</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
