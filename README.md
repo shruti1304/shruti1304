@@ -16,7 +16,7 @@
 - 📊 Enable insights for **warranty**, **insurance**, and **supply chain analytics**
 
 ---
-### 🛠️ Tech Stack
+### 🛠️ My Tech Stack
 
 - 🐍 **Python**
 - 📘 **SQL** – PostgreSQL, MySQL
