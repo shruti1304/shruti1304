@@ -30,5 +30,5 @@
 
 ### 📫 Connect with Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/shruti-m-nashine-30b179182)
+- 💼 LinkedIn: [Shruti Nashine](https://linkedin.com/in/shruti-m-nashine-30b179182)
 - ✉️ nashineshruti5@gmail.com  
