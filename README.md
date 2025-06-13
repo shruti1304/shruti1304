@@ -34,14 +34,14 @@
       <b>Azure</b>
     </td>
     <td align="center" width="130">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="48"/><br/>
-      <b>PySpark</b>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Databricks_Logo.png" width="48"/><br/>
+      <b>Databricks</b>
     </td>
   </tr>
   <tr>
     <td align="center" width="130">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Informatica_Logo.svg" width="48"/><br/>
-      <b>Informatica</b>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Azure_Data_Lake_Storage_Logo.png" width="48"/><br/>
+      <b>ADLS Gen2</b>
     </td>
     <td align="center" width="130">
       <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Postgresql_elephant.svg" width="48"/><br/>
@@ -52,43 +52,11 @@
       <b>Databricks</b>
     </td>
     <td align="center" width="130">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Azure_Data_Lake_Storage_Logo.png" width="48"/><br/>
-      <b>ADLS Gen2</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="130">
-      <img src="https://img.icons8.com/ios-filled/100/000000/github.png" width="48"/><br/>
-      <b>GitHub</b>
-    </td>
-    <td align="center" width="130">
-      <img src="https://img.icons8.com/color/96/000000/jenkins.png" width="48"/><br/>
-      <b>Jenkins</b>
-    </td>
-    <td align="center" width="130">
-      <img src="https://img.icons8.com/ios-filled/100/000000/jira.png" width="48"/><br/>
-      <b>Jira</b>
-    </td>
-    <td align="center" width="130">
-      <img src="https://img.icons8.com/ios-filled/100/000000/flow-chart.png" width="48"/><br/>
-      <b>Lucidchart</b>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Databricks_Logo.png" width="48"/><br/>
+      <b>Databricks</b>
     </td>
   </tr>
 </table>
-
-
----
-
-### 🧩 Featured Project
-
-📌 **Home Insurance & Policy Analytics (2025)**  
-Built an end-to-end ETL pipeline using Azure Data Factory, Databricks, and ADLS Gen2  
-> ✅ Cleaned and enriched insurance data using PySpark  
-> ✅ Engineered fraud detection signals  
-> ✅ Automated workflows across ingestion to analytics
-
-🔗 [View Project Repository](#) *(Replace with actual GitHub repo link)*
-
 ---
 
 ### 📫 Connect with Me
