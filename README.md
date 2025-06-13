@@ -18,13 +18,8 @@
 ---
 ### 🛠️ My Tech Stack
 
-- 🐍 **Python**
-- 📘 **SQL** – PostgreSQL, MySQL
-- ☁️ **Azure** – ADF, Databricks, ADLS Gen2
-- 🔥 **PySpark** / Spark SQL
-- 🧩 **Informatica IICS**
-- 📂 **GitHub**, ⚙️ Jenkins
-- 📋 **Jira**, 🧠 Lucidchart
+- 🐍 **Python**  - 📘 **SQL** – PostgreSQL, MySQL  - ☁️ **Azure** – ADF, Databricks, ADLS Gen2  - 🔥 **PySpark** / Spark SQL
+- 🧩 **Informatica IICS**  - 📂 **GitHub**, ⚙️ Jenkins  - 📋 **Jira**  -  🧠 Lucidchart
 
 ---
 
