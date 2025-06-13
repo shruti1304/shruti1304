@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Shruti</h1>
-<h3 align="center">Data Engineer | Azure | ETL | PySpark</h3>
+<h3 align="center">Data Engineer | Data Enthusiast</h3>
 
 ---
 
@@ -30,5 +30,5 @@
 
 ### 📫 Connect with Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-link)  
+- 💼 [LinkedIn](www.linkedin.com/in/shruti-m-nashine-30b179182)  
 - ✉️ nashineshruti5@gmail.com  
