@@ -33,7 +33,7 @@
       <b>Azure</b>
     </td>
     <td align="center" width="130">
-      <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/null/external-databricks-a-cloud-based-data-platform-logo-color-tal-revivo.png" width="48"/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg" width="48"/><br/>
       <b>Databricks</b>
     </td>
   </tr>
