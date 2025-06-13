@@ -34,26 +34,8 @@
       <b>Azure</b>
     </td>
     <td align="center" width="130">
-      <img src="https://cdn.worldvectorlogo.com/logos/databricks.svg" width="48"/><br/>
-      <b>Databricks</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="130">
       <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="48"/><br/>
       <b>PySpark</b>
-    </td>
-    <td align="center" width="130">
-      <img src="https://img.icons8.com/color/96/000000/postgreesql.png" width="48"/><br/>
-      <b>PostgreSQL</b>
-    </td>
-    <td align="center" width="130">
-      <img src="https://img.icons8.com/ios-filled/100/000000/github.png" width="48"/><br/>
-      <b>GitHub</b>
-    </td>
-    <td align="center" width="130">
-      <img src="https://img.icons8.com/color/96/000000/jenkins.png" width="48"/><br/>
-      <b>Jenkins</b>
     </td>
   </tr>
   <tr>
@@ -62,12 +44,30 @@
       <b>Informatica</b>
     </td>
     <td align="center" width="130">
-      <img src="https://img.icons8.com/ios-filled/100/000000/jira.png" width="48"/><br/>
-      <b>Jira</b>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Postgresql_elephant.svg" width="48"/><br/>
+      <b>PostgreSQL</b>
     </td>
     <td align="center" width="130">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Microsoft_Azure_Logo.svg/512px-Microsoft_Azure_Logo.svg.png" width="48"/><br/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Databricks_Logo.png" width="48"/><br/>
+      <b>Databricks</b>
+    </td>
+    <td align="center" width="130">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Azure_Data_Lake_Storage_Logo.png" width="48"/><br/>
       <b>ADLS Gen2</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="130">
+      <img src="https://img.icons8.com/ios-filled/100/000000/github.png" width="48"/><br/>
+      <b>GitHub</b>
+    </td>
+    <td align="center" width="130">
+      <img src="https://img.icons8.com/color/96/000000/jenkins.png" width="48"/><br/>
+      <b>Jenkins</b>
+    </td>
+    <td align="center" width="130">
+      <img src="https://img.icons8.com/ios-filled/100/000000/jira.png" width="48"/><br/>
+      <b>Jira</b>
     </td>
     <td align="center" width="130">
       <img src="https://img.icons8.com/ios-filled/100/000000/flow-chart.png" width="48"/><br/>
@@ -87,14 +87,6 @@ Built an end-to-end ETL pipeline using Azure Data Factory, Databricks, and ADLS 
 > ✅ Automated workflows across ingestion to analytics
 
 🔗 [View Project Repository](#) *(Replace with actual GitHub repo link)*
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shruti1304&show_icons=true&theme=radical" />
-</p>
 
 ---
 
