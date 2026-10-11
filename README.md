@@ -7,7 +7,7 @@
 ---
 ### 💼 What I Do
 
-* 🚀 **Ingestion & Lakehouse Pipelines:** Build efficient batch and streaming pipelines using **Databricks Auto Loader (`cloudFiles`)**, Delta Lake append patterns, and schema evolution handling.
+- 🚀 **Ingestion & Lakehouse Pipelines:** Build efficient batch and streaming pipelines using **Databricks Auto Loader (`cloudFiles`)**, Delta Lake append patterns, and schema evolution handling.
 * ⚙️ **Data Transformation:** Implement robust transformation workflows using **PySpark DataFrames**, **Spark SQL**, **Window Functions**, and Delta `MERGE INTO` for **SCD Type 2** tracking.
 * ⚡ **Performance Optimization:** Optimize Databricks performance and query speeds using **Liquid Clustering**, **Z-Ordering**, `OPTIMIZE`, `VACUUM`, and **Broadcast Joins**.
 * 🛡️ **Governance & Security:** Enforce data security and access control with **Unity Catalog** (Metastore, Schemas, and Row/Column-level security).
