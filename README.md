@@ -2,7 +2,7 @@
 <h3 align="center">#Data Engineer #Data Enthusiast</h3>
 
 ---
-🎯 Experienced Data Engineer with 3+ years of hands-on experience building scalable data pipelines in Azure ecosystems (ADF, Databricks, ADLS Gen2). I specialize in designing robust ETL solutions that turn complex data into business value. Passionate about supply chain analytics, cloud-native data engineering, and automation.
+🎯 Experienced Data Engineer with 4+ years of hands-on experience building scalable data pipelines in Azure ecosystems (Databricks, Jobs & workflows, ADF, ADLS Gen2). I specialise in designing robust ETL solutions that turn complex data into business value. Passionate about supply chain analytics, cloud-native data engineering, and automation.
 
 ---
 ### 💼 What I Do
