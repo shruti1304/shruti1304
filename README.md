@@ -7,11 +7,11 @@
 ---
 ### 💼 What I Do
 
-- 🚀 Build and optimize high-volume **ETL pipelines** using Azure Data Factory & Databricks
-- ⚙️ Develop scalable **data lake architectures** with **ADLS Gen2**
-- 🧠 Transform complex business logic using **Spark SQL**, **PySpark**, and **PostgreSQL**
-- 🔁 Automate ETL tests using **Python BDD** and integrate workflows using **GitHub & Jenkins**
-- 📊 Enable insights for **warranty**, **insurance**, and **supply chain analytics**
+* 🚀 **Ingestion & Lakehouse Pipelines:** Build efficient batch and streaming pipelines using **Databricks Auto Loader (`cloudFiles`)**, Delta Lake append patterns, and schema evolution handling.
+* ⚙️ **Data Transformation:** Implement robust transformation workflows using **PySpark DataFrames**, **Spark SQL**, **Window Functions**, and Delta `MERGE INTO` for **SCD Type 2** tracking.
+* ⚡ **Performance Optimization:** Optimize Databricks performance and query speeds using **Liquid Clustering**, **Z-Ordering**, `OPTIMIZE`, `VACUUM`, and **Broadcast Joins**.
+* 🛡️ **Governance & Security:** Enforce data security and access control with **Unity Catalog** (Metastore, Schemas, and Row/Column-level security).
+* 🔁 **Orchestration, CI/CD & Testing:** Streamline deployments using **Databricks Workflows**, **Databricks Asset Bundles (DABs)**, **Repos / Git Integration**, and automated **Python BDD** testing via **Jenkins**.
 
 ---
 ### 🛠️ My Tech Stack
@@ -20,9 +20,10 @@
 | :--- | :--- |
 | **Languages** | `Python`, `SQL`, `PySpark` |
 | **Cloud & Ecosystem** | `Azure Data Factory (ADF)`, `Azure Databricks`, `ADLS Gen2` |
+| **Databricks & Lakehouse** | `Unity Catalog`, `Auto Loader`, `Delta Lake`, `Databricks Asset Bundles (DABs)` |
 | **Databases** | `PostgreSQL`, `MySQL` |
-| **ETL & Integration** | `Databricks Jobs & Workflows`, `Informatica IICS` |
-| **DevOps & Testing** | `Git`, `GitHub`, `Jenkins`, `Python BDD` |
+| **ETL & Integration** | `Databricks Workflows`, `Informatica IICS` |
+| **DevOps & Testing** | `Git / GitHub Repos`, `Jenkins`, `Python BDD` |
 | **Agile & Design** | `Jira`, `Lucidchart` |
 ---
 
