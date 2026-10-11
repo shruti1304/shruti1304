@@ -16,13 +16,14 @@
 ---
 ### 🛠️ My Tech Stack
 
-- 🐍 **Python**
-- 📘 **SQL** – PostgreSQL, MySQL
-- ☁️ **Azure** – ADF, Databricks, ADLS Gen2
-- 🔥 **PySpark** / Spark SQL
-- 🧩 **Informatica IICS**
-- 📂 **GitHub**, ⚙️ Jenkins
-- 📋 **Jira**, 🧠 Lucidchart
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | `Python`, `SQL`, `PySpark` |
+| **Cloud & Ecosystem** | `Azure Data Factory (ADF)`, `Azure Databricks`, `ADLS Gen2` |
+| **Databases** | `PostgreSQL`, `MySQL` |
+| **ETL & Integration** | `Databricks Jobs & Workflows`, `Informatica IICS` |
+| **DevOps & Testing** | `Git`, `GitHub`, `Jenkins`, `Python BDD` |
+| **Agile & Design** | `Jira`, `Lucidchart` |
 ---
 
 ### 📫 Connect with Me
